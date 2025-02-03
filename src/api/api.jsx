@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const Url = "http://localhost:3030/modelo";
+const Url = "https://prueba-backend-plum.vercel.app/modelo";
 
 export const obtenerTodos = async () => {
     try{
